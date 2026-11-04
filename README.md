@@ -206,7 +206,7 @@ Body: { system: "...", messages: [...] }
 | Service | Platform | URL |
 |---|---|---|
 | Frontend | Vercel | https://farm-assist-lime.vercel.app |
-| Backend | Render | https://backend-smart-crop-360.onrender.com |
+| Backend | Render | https://farm-assist-backend-7hym.onrender.com |
 | Repository | GitHub | https://github.com/Akshaya-dev02/Farm_assist |
 
 ---
