@@ -11,7 +11,7 @@
 
 **An AI-powered Progressive Web App for Indian Farmers 🇮🇳**
 
-[🌐 Live Demo](https://smart-crop-360.vercel.app) • [📱 Install as App](#pwa-installation) • [📖 Features](#features)
+[🌐 Live Demo](https://farm-assist-lime.vercel.app) • [📱 Install as App](#pwa-installation) • [📖 Features](#features)
 
 </div>
 
