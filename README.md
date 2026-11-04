@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌾 Farm Assist
 
 <div align="center">
@@ -259,5 +259,4 @@ This project is licensed under the MIT License.
 ⭐ Star this repo if you found it helpful!
 
 </div>
-=======
 
