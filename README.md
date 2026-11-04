@@ -121,7 +121,7 @@ Farm Assist is a full-stack AI-powered farming decision support system built for
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/hexdeploy/smart-crop-360.git
+git clone https://github.com/hexdeploy/Farm_assist.git
 cd smart-crop-360
 ```
 
@@ -188,13 +188,13 @@ Body: { system: "...", messages: [...] }
 ## 📱 PWA Installation
 
 ### Android
-1. Open https://smart-crop-360.vercel.app in Chrome
+1. Open https://farm-assist-lime.vercel.app in Chrome
 2. Tap three dots menu (⋮)
 3. Tap **"Add to Home Screen"**
 4. App icon appears on home screen ✅
 
 ### iPhone/iPad
-1. Open https://smart-crop-360.vercel.app in Safari
+1. Open https://farm-assist-lime.vercel.app in Safari
 2. Tap Share button (⬆️)
 3. Tap **"Add to Home Screen"**
 4. App icon appears on home screen ✅
@@ -205,9 +205,9 @@ Body: { system: "...", messages: [...] }
 
 | Service | Platform | URL |
 |---|---|---|
-| Frontend | Vercel | https://smart-crop-360.vercel.app |
+| Frontend | Vercel | https://farm-assist-lime.vercel.app |
 | Backend | Render | https://backend-smart-crop-360.onrender.com |
-| Repository | GitHub | https://github.com/hexdeploy/smart-crop-360 |
+| Repository | GitHub | https://github.com/Akshaya-dev02/Farm_assist |
 
 ---
 
